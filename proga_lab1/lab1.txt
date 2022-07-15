@@ -1,0 +1,7 @@
+i like programming
+					and i love c
+<<<<<<< HEAD
+Hvastunov best lector	
+=======
+Hvastunov best lector	
+>>>>>>> 404fce2d6cf299559889e46c83cd4d84c671913f
