@@ -14,7 +14,7 @@
 -w, --words&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;вывод количества слов
 
 Название файла и опции передаются через аргументы командной строки в следующем формате:
-&nbsp;
+
 
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**WordCont.exe [OPTION] filename**
