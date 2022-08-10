@@ -1,5 +1,4 @@
-# proga-4lab
-**Лабораторная работа 4. Редактор метаинформации mp-3 файла**
+# Лабораторная работа 4. Редактор метаинформации mp-3 файла
 
 **Задача**
 
@@ -22,4 +21,6 @@ app.exe --filepath=Song.mp3 --get=TIT2
 app.exe --filepath=Song.mp3 --set=COMM --value=Test
 
 
+
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
 
