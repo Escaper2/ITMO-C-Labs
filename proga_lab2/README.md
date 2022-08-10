@@ -1,5 +1,4 @@
-# proga_lab2
-**Лабораторная работа 2. uint1024_t**
+# Лабораторная работа 2. uint1024_t
 
 **Задача**
 
@@ -22,3 +21,6 @@
 
 6. void scanf_value(uint1024_t* x) - чтение из стандартного потока
 ввода
+
+
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
