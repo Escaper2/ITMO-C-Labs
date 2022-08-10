@@ -1,5 +1,4 @@
-# proga-6lab
-**Лабораторная работа 6. Архиватор файлов.**
+# Лабораторная работа 6. Архиватор файлов.
 
 Целью лабораторной работы является разработка программы по архивированию
 и распаковке нескольких файлов в один архив. Архиватор должен:
@@ -29,3 +28,6 @@ arc --file data.arc --create a.txt b.bin c.bmp
 arc --file data.arc --extract
 
 arc --file data.arc --list
+
+
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
